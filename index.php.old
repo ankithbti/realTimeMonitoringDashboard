@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title>QuickNote - A product by Fitied</title>
+
+		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+		<link href="jquery-ui-1.11.2.custom/jquery-ui.min.css" rel="stylesheet" >
+		<link href="common.css" rel="stylesheet">
+	</head>
+	<body>
+
+		<div class="container banner" align="center">
+			<h1>QuickNote - A Product by Fitied</h1>
+		</div>
+
+		<div class="container note" align="center">
+			<div class="row">
+				<div class="span6">
+					<h3>To Do</h3>
+					<ul>
+						<li>Real-time Monitoring System [ C++ ]</li>
+						<li>Generic Transport + Protocol Design [ C++ ]</li>
+						<li>Generic HTTP Server [ C++ ]</li>
+						<li>Low Latency &amp; Ultra Fast Fix Implementation [ C++ ]</li>
+						<li>Project on RasberryPi for Video Streaming</li>
+						<li>Writing a light-weight xmlParser.</li>
+					</ul>
+				</div>
+				<div class="span4">
+					<h3>Side Notes</h3>
+				</div>
+			</div>
+			
+		</div>
+
+	</body>
+</html>

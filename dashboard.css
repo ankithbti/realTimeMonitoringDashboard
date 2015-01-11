@@ -1,0 +1,22 @@
+.dashboardheader h1{
+	font-size: 1.6em;
+}
+
+.dashboardheader {
+	margin: 1px 0px 0px 0px;
+	padding: 0px;
+}
+
+hr{
+	margin: 0px;
+	padding: 0px;
+}
+
+.dashboard {
+	margin: 10px ;
+}
+
+.giveRightBorder{
+	border-right: solid 2px #e1e1e1 ;
+	padding-right: 10px;
+}
